@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Acoustic Breeze",
+    "artist": "Bensound",
+    "album": "Bensound's Best",
+    "cover": "https://www.bensound.com/bensound-img/acousticbreeze.jpg",
+    "src": "https://raw.githubusercontent.com/your-username/your-repository/main/bensound-acousticbreeze.mp3"
+  },
+  {
+    "title": "Sunny",
+    "artist": "Bensound",
+    "album": "Summer Vibes",
+    "cover": "https://www.bensound.com/bensound-img/sunny.jpg",
+    "src": "https://raw.githubusercontent.com/your-username/your-repository/main/bensound-sunny.mp3"
+  },
+  {
+    "title": "Creative Minds",
+    "artist": "Bensound",
+    "album": "Inspiring Tracks",
+    "cover": "https://www.bensound.com/bensound-img/creativeminds.jpg",
+    "src": "https://raw.githubusercontent.com/your-username/your-repository/main/bensound-creativeminds.mp3"
+  }
+]
